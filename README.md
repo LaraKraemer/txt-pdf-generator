@@ -1,6 +1,6 @@
 # txt-pdf Generator
-This is another project from my python bootcamp 
-where I build a pdf file. As a data source I work with four .txt files.
+This is another project from my python bootcamp where I build a pdf file. As a data source I work with four .txt files. This exercise will further practise my for-loops
+skills. 
 
 ## How to work with this repository
 1. Clone the repository
