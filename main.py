@@ -23,5 +23,5 @@ for filepath in directory:
     with open(filepath, 'r') as file:
         for line in file:
             pdf.multi_cell(w=0, h=10, txt=line.strip())
-    
+            
 pdf.output("output.pdf")
